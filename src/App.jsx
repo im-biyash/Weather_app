@@ -39,7 +39,7 @@ function App() {
 
   return (
     <div className="w-full h-full min-h-screen flex flex-col justify-center items-center bg-black text-white">
-      <h1 className="text-4xl font-serif relative top-[30px] mr-4 items-center">
+      <h1 className="text-4xl font-serif relative top-[30px] mr-6 items-center">
         Weather App
       </h1>
       <input
